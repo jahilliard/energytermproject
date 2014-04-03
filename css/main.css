@@ -1,0 +1,84 @@
+.right{
+    float: right;
+}
+
+body{
+    background-image: url(trees-blur.jpg);
+    background-position:center;
+    background-repeat: repeat;
+}
+
+.content-wrap{
+    background-color: white;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+#right{
+	float: right;
+}
+
+#left{
+	float: left;
+}
+
+audio{
+	width: 505px;
+}
+
+img{
+	box-shadow: 0 0 8px #888888;
+}
+
+footer{
+    padding-top: 10px;
+    clear: both;
+}
+
+#q1{
+	font-weight: bold;
+}
+
+#q2{
+	font-weight: bold;
+}
+
+#q3{
+	font-weight: bold;
+}
+
+#q4{
+	font-weight: bold;
+}
+
+#q5{
+	font-weight: bold;
+}
+
+#q6{
+	font-weight: bold;
+}
+
+#q7{
+	font-weight: bold;
+}
+
+#q8{
+	font-weight: bold;
+}
+
+#q9{
+	font-weight: bold;
+}
+
+#q10{
+	font-weight: bold;
+}
+
+#q11{
+	font-weight: bold;
+}
+
+#q12{
+	font-weight: bold;
+}
