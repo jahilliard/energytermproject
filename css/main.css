@@ -3,9 +3,9 @@
 }
 
 body{
-    background-image: url(trees-blur.jpg);
-    background-position:center;
-    background-repeat: repeat;
+    background: rgba(0, 0, 0, 0) url(trees-blur.jpg) no-repeat fixed 50% 50% / cover padding-box border-box;
+   /* background-position:center;
+    background-repeat: repeat;*/
 }
 
 .content-wrap{
