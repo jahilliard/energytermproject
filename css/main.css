@@ -3,7 +3,8 @@
 }
 
 body{
-    background: rgba(0, 0, 0, 0) url(trees-blur.jpg) no-repeat fixed 50% 50% / cover padding-box border-box;
+    background: rgba(0, 0, 0, 0) url(trees-blur.jpg) no-repeat fixed 50% 50%;
+    background-size: 100% 100%;
    /* background-position:center;
     background-repeat: repeat;*/
 }
