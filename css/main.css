@@ -15,6 +15,10 @@ body{
     overflow: hidden;
 }
 
+#pad{
+	margin-bottom: 20px;
+}
+
 #right{
 	float: right;
 }
